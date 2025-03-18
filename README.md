@@ -6,5 +6,5 @@ This project implements an **Agentic AI** system that autonomously gathers, anal
 - Autonomous AI Agent: Executes goal-driven tasks.
 - Web Search Integration: Gathers real-time information using **SerpAPI**.
 - AI Reasoning: Uses GPT-4 for analysis and summarization.
-- Easy to Use: Define a goal, run the script, and get results.
+- Easy to Use: Define a goal, run the script, and get results. 
 
